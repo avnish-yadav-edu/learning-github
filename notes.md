@@ -31,3 +31,5 @@ GitHub is an online platform where developers store Git repositories, share proj
 - I created notes.md and the images folder.
 - I learned the basic difference between Git and GitHub.
 
+### 7. How to use the git commands
+! [Git Commands Using](images/git-commands-using.png)
