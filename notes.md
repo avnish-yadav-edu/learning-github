@@ -306,3 +306,15 @@ Terminal mein `4 files changed` show hua, matlab meri 4 files successfully commi
 Mujhe ek commit ID bhi mili: `84d0b7b`.
 
 Ab meri files local repository mein save ho gayi hain. Lekin abhi GitHub par upload nahi hui hain. Uske liye mujhe `git push` command run karni hogi.
+
+![Git Push Successful](images/session-2-git-push-success.png)
+
+### Git Push Karne Ke Baad Kya Hua?
+
+Maine `git push` command run ki.
+
+Iske baad terminal mein objects upload hue aur `main -> main` show hua.
+
+Matlab meri local repository ke saare pending commits GitHub par successfully upload ho gaye.
+
+Ab main GitHub par apni notes aur screenshots dekh sakta hoon.
