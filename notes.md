@@ -286,3 +286,23 @@ Pehli baar run kiya toh `notes.md` staged thi, lekin dono screenshots untracked 
 Phir maine `git add .` run kiya aur dobara `git status` check kiya. Ab `notes.md` aur dono screenshots staging area mein aa gaye the.
 
 Isse mujhe samajh aaya ki `git status` se hum check kar sakte hain ki kaunsi files staged hain aur kaunsi abhi stage nahi hui hain.
+
+![Commit Successful](images/session-2-commit-success.png)
+
+### Ab mei changes commit krne ja rha hu
+
+Jab maine git commit command run ki, toh meri staging area mein jo bhi files thi, unka ek snapshot local repository mein save ho gaya.
+
+Matlab ab tak maine jo changes kiye the, unka ek record Git ke paas save ho gaya hai.
+
+Agar future mein mujhe dekhna ho ki maine pehle kya changes kiye the, toh main apne commits check kar sakta hoon.
+
+Yaad rakhna: Commit karne se changes GitHub par upload nahi hote. Uske liye git push command use hoti hai.
+
+Maine `git commit -m "Complete session 2 git notes"` command run ki.
+
+Terminal mein `4 files changed` show hua, matlab meri 4 files successfully commit ho gayi.
+
+Mujhe ek commit ID bhi mili: `84d0b7b`.
+
+Ab meri files local repository mein save ho gayi hain. Lekin abhi GitHub par upload nahi hui hain. Uske liye mujhe `git push` command run karni hogi.
